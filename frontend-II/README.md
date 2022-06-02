@@ -202,5 +202,5 @@ Apresentar exemplos de bibliotecas de terceiros mais populares e compreender o p
 - AOS
 - Introdução ao Framework React
 
-# Aula 27: Encerramento da disciplina
+#### Aula 27: Encerramento da disciplina
 Encerramento e retrospectiva dos conteúdos abordados.
