@@ -9,6 +9,9 @@ Fornecer aos alunos uma abordagem do que será apresentado no módulo e uma brev
 - DevTools: Console
 - Integrando javascript em um documento HTML
 
+- [Aula Assícrona](https://github.com/saramarquesamo/Certified-Tech-Developer/tree/main/frontend-II/modulo1/aula1A)
+- [Aula Síncrona](https://github.com/saramarquesamo/Certified-Tech-Developer/tree/main/frontend-II/modulo1/aula1S)
+
 #### Aula 2: Introdução ao Javascript em interfaces
 Apresentar os recursos do Chrome Devtools a partir de uma implementação de funcionalidades com a linguagem Javascript.
 
