@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+header > div {
+    padding-left: 50px;
+    height: 100px;
+}
+
+header .desconto {
+    background-color: #1CD1B0;
+    height: 40px;
+    padding-top: 10px;
+    font-weight: 400;
+}
+
+header .titulo-site {
+    background-color: #00669F;
+    padding-top: 30px;
+}
+
+.container-cards {
+    margin-top: 90px;
+    display: flex;
+    justify-content: center;
+    gap: 85px;
+}
+
+.card {
+    width: 375px;
+    height: 600px;
+    background-color: #F3F3F3;
+    border-radius: 20px 20px 0 0;
+}
+
+.capa {
+    position: relative;
+}
+
+.capa img {
+    position: absolute;
+}
+
+.capa .coracao {
+    top: 15px;
+    left: 25px;
+}
+
+.detalhes-perfil {
+    padding-top: 135px;
+}
+
+.detalhes-perfil img {
+    border-radius: 50%;
+    position: relative;
+    z-index: 2;
+    margin-left: 125px;
+}
+
+.detalhes-perfil h2 {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.detalhes-perfil p {
+    height: 135px;
+    text-align: center;
+    padding: 10px 35px;
+    overflow: hidden;
+}
+
+.detalhes-perfil .botao {
+    width: 155px;
+    height: 55px;
+    margin: 0 auto;
+    background-color: #00669F;
+    text-align: center;
+    padding: 18px;
+    color: #F3F3F3;
+    margin-top: 30px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #00669F;
+    padding: 20px 50px;
+    color: white;
+}

@@ -1,0 +1,84 @@
+/*RESET*/
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/*CAEBÇALHO*/
+
+header > div {
+    padding-left: 50px;
+    height: 100px;
+
+}
+
+header .desconto{
+
+    background-color: #1CD1B0;
+    height: 40px;
+    padding-top: 10px;
+    font-weight: 400;
+
+}
+
+header .herois{
+    background-color: #00669f;
+    padding-top: 30px;
+}
+
+.container{
+    margin-top: 90px;
+    display: flex;
+    justify-content: center;
+    gap: 85px;
+}
+
+.card{
+    width: 375px;
+    height: 600px;
+    background-color: #f3f3f3;
+    border-radius: 20px 20px 20px 20px;
+    display: inline-block;
+
+}
+
+.capa{
+    position: relative;
+}
+
+.capa img {
+    position: absolute;
+}
+
+.coracion {
+    z-index: 1;
+    top: 15px;
+    left: 25px;
+}
+
+.perfil{
+    padding-top: 135px;
+
+}
+
+.perfil img{
+    border-radius: 50%;
+    position: relative;
+    margin-left: 110px;
+    z-index: 2;
+
+}
+
+.textos{
+    text-align: center;
+    padding: 40px;
+}
+
+.textos h2{
+    font-size: 30px;
+    margin-top: 20px;
+}
