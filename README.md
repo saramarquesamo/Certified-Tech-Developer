@@ -1,4 +1,6 @@
 # Aqui você vai encontrar todo meu desenvolvimento prático no curso CTD
+[2021-2024]
+1ª etapa: 1 ano e 9 meses | 2ª etapa (especialização em back ou front): 1 ano
 
 ### Habilidades que estou aprendendo:
 #### Fundamentos
